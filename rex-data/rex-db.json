@@ -1,0 +1,97 @@
+{
+  "version": 1,
+  "createdAt": "2026-05-02T07:19:53.372Z",
+  "updatedAt": "2026-05-02T07:19:54.192Z",
+  "lastBackupAt": "",
+  "state": {
+    "day": 1,
+    "streak": 0,
+    "statuses": {},
+    "portfolio": [],
+    "notes": [],
+    "writings": [],
+    "blockTimers": {}
+  },
+  "chatByDay": {
+    "1": [
+      {
+        "role": "user",
+        "content": "Day 1 — Linux & lab setup\n\nRequired tasks:\n1. Complete OverTheWire Bandit levels 0–10 via SSH\n2. Study TCP/IP, DNS, HTTP basics (NetworkChuck YouTube)\n3. Install VirtualBox + Kali Linux VM (4GB RAM min)\n4. Create GitHub repo 'cybersecurity-journey' and commit Day 1 notes\n\nRecruit's evidence:\nhi  sdjlrfdnkldk;kkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkk"
+      },
+      {
+        "role": "assistant",
+        "content": "AI temporarily unavailable (429). Try again in a minute."
+      },
+      {
+        "role": "user",
+        "content": "hi"
+      },
+      {
+        "role": "assistant",
+        "content": "AI temporarily unavailable (429). Try again in a minute."
+      },
+      {
+        "role": "user",
+        "content": "hi"
+      },
+      {
+        "role": "assistant",
+        "content": "Recruit. Gemini is unavailable right now (Gemini returned 429), so local Rex is judging this.\n\nRejected for insufficient detail. You have some signals, but not enough repeatable evidence.\nAdd the missing commands, outputs, and the GitHub commit proof.\n\n[VERDICT:REJECTED|Evidence lacks enough concrete commands, outputs, and artifact proof.]"
+      }
+    ]
+  },
+  "events": [
+    {
+      "id": "ab7fd276-10b6-4742-a2bb-0ec2f71e3336",
+      "type": "chat",
+      "at": "2026-05-02T07:19:53.372Z",
+      "payload": {
+        "messages": [
+          {
+            "role": "user",
+            "content": "Day 1 — Linux & lab setup\n\nRequired tasks:\n1. Complete OverTheWire Bandit levels 0–10 via SSH\n2. Study TCP/IP, DNS, HTTP basics (NetworkChuck YouTube)\n3. Install VirtualBox + Kali Linux VM (4GB RAM min)\n4. Create GitHub repo 'cybersecurity-journey' and commit Day 1 notes\n\nRecruit's evidence:\nhi  sdjlrfdnkldk;kkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkk"
+          },
+          {
+            "role": "assistant",
+            "content": "AI temporarily unavailable (429). Try again in a minute."
+          },
+          {
+            "role": "user",
+            "content": "hi"
+          },
+          {
+            "role": "assistant",
+            "content": "AI temporarily unavailable (429). Try again in a minute."
+          },
+          {
+            "role": "user",
+            "content": "hi"
+          }
+        ],
+        "response": "Recruit. Gemini is unavailable right now (Gemini returned 429), so local Rex is judging this.\n\nRejected for insufficient detail. You have some signals, but not enough repeatable evidence.\nAdd the missing commands, outputs, and the GitHub commit proof.\n\n[VERDICT:REJECTED|Evidence lacks enough concrete commands, outputs, and artifact proof.]",
+        "provider": "local-fallback",
+        "fallback": true,
+        "upstreamStatus": 429
+      }
+    },
+    {
+      "id": "419b3039-b931-4494-89bd-ea8fcf083cfd",
+      "type": "state-sync",
+      "at": "2026-05-02T07:19:54.192Z",
+      "payload": {
+        "day": 1,
+        "stateKeys": [
+          "day",
+          "streak",
+          "statuses",
+          "portfolio",
+          "notes",
+          "writings",
+          "blockTimers"
+        ],
+        "chatMessages": 6
+      }
+    }
+  ],
+  "backups": []
+}
