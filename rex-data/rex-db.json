@@ -1,7 +1,7 @@
 {
   "version": 1,
-  "createdAt": "2026-05-03T14:51:24.900Z",
-  "updatedAt": "2026-05-03T14:51:24.901Z",
+  "createdAt": "2026-05-03T15:13:28.622Z",
+  "updatedAt": "2026-05-03T15:13:28.872Z",
   "lastBackupAt": "",
   "state": {
     "day": 1,
@@ -12,9 +12,9 @@
     "writings": [],
     "blockTimers": {
       "s3": {
-        "elapsed": 0,
+        "elapsed": 72,
         "done": false,
-        "running": true
+        "running": false
       }
     },
     "tasksDone": {
@@ -69,9 +69,28 @@
   },
   "events": [
     {
-      "id": "7155fd24-73f4-4a53-b8f9-6d0429aba36a",
+      "id": "98cdd623-b987-40cf-a8a4-165b2265a8a1",
       "type": "state-sync",
-      "at": "2026-05-03T14:51:24.901Z",
+      "at": "2026-05-03T15:13:28.623Z",
+      "payload": {
+        "day": 1,
+        "stateKeys": [
+          "day",
+          "streak",
+          "statuses",
+          "portfolio",
+          "notes",
+          "writings",
+          "blockTimers",
+          "tasksDone"
+        ],
+        "chatMessages": 10
+      }
+    },
+    {
+      "id": "96c2697f-2232-46dc-8fdc-4830a49abce7",
+      "type": "state-sync",
+      "at": "2026-05-03T15:13:28.872Z",
       "payload": {
         "day": 1,
         "stateKeys": [
