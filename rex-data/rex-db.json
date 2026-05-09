@@ -1,7 +1,7 @@
 {
   "version": 1,
-  "createdAt": "2026-05-09T07:01:35.375Z",
-  "updatedAt": "2026-05-09T07:01:35.376Z",
+  "createdAt": "2026-05-09T15:12:14.185Z",
+  "updatedAt": "2026-05-09T15:12:14.186Z",
   "lastBackupAt": "",
   "state": {
     "day": 2,
@@ -23,7 +23,13 @@
     ],
     "notes": [],
     "writings": [],
-    "blockTimers": {},
+    "blockTimers": {
+      "s1": {
+        "elapsed": 0,
+        "done": true,
+        "running": false
+      }
+    },
     "tasksDone": {
       "1": {
         "0": "verified",
@@ -39,9 +45,9 @@
   },
   "events": [
     {
-      "id": "643a94b5-ffa2-433e-8f3b-b5cb8abb31ab",
+      "id": "e586769f-73af-4444-8892-824cbd8cfc38",
       "type": "state-sync",
-      "at": "2026-05-09T07:01:35.376Z",
+      "at": "2026-05-09T15:12:14.186Z",
       "payload": {
         "day": 2,
         "stateKeys": [
