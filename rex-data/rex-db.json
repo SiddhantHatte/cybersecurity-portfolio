@@ -1,7 +1,7 @@
 {
   "version": 1,
-  "createdAt": "2026-05-09T15:12:14.185Z",
-  "updatedAt": "2026-05-09T15:12:14.186Z",
+  "createdAt": "2026-05-10T13:47:03.139Z",
+  "updatedAt": "2026-05-10T13:47:03.139Z",
   "lastBackupAt": "",
   "state": {
     "day": 2,
@@ -28,6 +28,11 @@
         "elapsed": 0,
         "done": true,
         "running": false
+      },
+      "s2": {
+        "elapsed": 0,
+        "done": true,
+        "running": false
       }
     },
     "tasksDone": {
@@ -45,9 +50,9 @@
   },
   "events": [
     {
-      "id": "e586769f-73af-4444-8892-824cbd8cfc38",
+      "id": "73167527-6a87-4c51-96b4-1e7a3f186040",
       "type": "state-sync",
-      "at": "2026-05-09T15:12:14.186Z",
+      "at": "2026-05-10T13:47:03.139Z",
       "payload": {
         "day": 2,
         "stateKeys": [
